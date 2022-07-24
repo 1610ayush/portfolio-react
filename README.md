@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can view this website on https://62dd63a6d621ec6f22cd9578--warm-zabaione-b77b73.netlify.app/
 
-This website is portfolio template website built in React.
+This website is portfolio template built in React.
 I have used styled components for styling and framer-motion for animations.
 
 ## Available Scripts
